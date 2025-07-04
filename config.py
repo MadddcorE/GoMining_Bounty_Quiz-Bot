@@ -1,0 +1,2 @@
+TELEGRAM_TOKEN = 'DEIN_BOT_TOKEN_HIER'
+DATABASE_URL = 'sqlite:///quiz.db'
