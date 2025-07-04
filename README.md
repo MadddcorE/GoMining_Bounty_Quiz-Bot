@@ -1,2 +1,3 @@
-# GoMining_Bounty_Quiz-Bot
-All files needed to run the GoMining Quiz-Bot for the Bounty-Program to earn Points from anwering questions correctly.
+# telegram_quiz_bot
+
+Telegram Quiz-Bot mit Webinterface und 15-Sekunden-Timer.
